@@ -14,7 +14,7 @@ Built with Playwright against the live web UIs, no API keys needed. It copies yo
 4. Repeat across all bots, N times
 5. The final result lands in front of your evaluation bot
 
-The idea is that each model has different blind spots, so passing responses around tends to smooth them out.
+The idea is that each model has different blind spots, so passing responses around tends to smooth them out. This was built to help me with my own writing, after the Prompt Maxxing project which is similar.
 
 ---
 
@@ -47,6 +47,7 @@ Type `QUIT` to exit. The temp profile gets deleted on the way out.
 
 - Probably doesn't work outside of MacOS and the given chatbots. Other chatbots require other specialised checks to see the response content.
 - Might not be able to handle other response types such as code, images, etc. Mainly tested with text response-based questions.
-- No support for selecitng different chat features (choosing models, temporary chat, web search mode, etc.)
+- No support for selecting different chat features (choosing models, temporary chat, web search mode, etc.).
+- No support for multi-line prompts.
 
 ---
