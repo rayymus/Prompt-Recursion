@@ -1,0 +1,121 @@
+PROMPT: Give me a concise but powerful list of General Paper tips
+First response:
+Absolutely! Here’s a concise, high-impact list of **General Paper (GP) tips** that can boost clarity, coherence, and content depth:
+
+---
+
+### **1. Understand the Question**
+
+* Identify command words: *Discuss, Evaluate, To what extent, Examine*.
+* Break down the question: topic, scope, and perspective.
+
+### **2. Plan Before Writing**
+
+* Spend 5–10 minutes brainstorming key points and examples.
+* Organize ideas into **Introduction → Arguments → Counterarguments → Conclusion**.
+
+### **3. Strong Introduction**
+
+* Start with a hook (quote, fact, or rhetorical question).
+* Define key terms if necessary.
+* State your thesis clearly.
+
+### **4. Structured Paragraphs**
+
+* **PEEL**: Point → Evidence → Explanation → Link.
+* Use varied examples: historical, contemporary, global, local.
+* Ensure smooth transitions between points.
+
+### **5. Balance Arguments**
+
+* Include multiple perspectives.
+* Critically evaluate, don’t just describe.
+
+### **6. Use Relevant Evidence**
+
+* Incorporate statistics, real-world events, case studies, and credible sources.
+* Be precise; avoid vague generalizations.
+
+### **7. Language & Style**
+
+* Formal, clear, and concise.
+* Use complex sentences sparingly for emphasis.
+* Avoid colloquialisms and contractions.
+
+### **8. Thoughtful Conclusion**
+
+* Summarize main points succinctly.
+* Reinforce your thesis without introducing new arguments.
+* End with a reflective insight or forward-looking statement.
+
+### **9. Review & Refine**
+
+* Check for grammar, spelling, and punctuation errors.
+* Ensure logical flow and clarity of arguments.
+* Remove redundant sentences.
+
+### **10. Practice & Reflect**
+
+* Read high-scoring essays.
+* Practice timed essays regularly.
+* Reflect on feedback and refine approach.
+
+---
+
+If you want, I can make an **even punchier “cheat-sheet” version** of this—one page of ultra-condensed, memory-friendly tips for exam use. Do you want me to do that?
+
+Last response:
+**High-Impact General Paper (GP) Strategies**
+
+Mastering GP requires moving beyond knowledge reproduction to critical evaluation. Here’s a streamlined guide to excel.
+
+---
+
+### **1. Argumentation & Analysis**
+
+**Decode the Nuance:** Identify absolutes (e.g., *only, never, always*) and variables (e.g., *to what extent, does it still hold*). Tailor your stance to these constraints.
+
+**PEEL+ Framework:**
+
+* **Point:** Clear, argumentative topic sentence.
+* **Evidence:** Concrete examples (data, policy, historical events).
+* **Explanation:** Connect the evidence to your point—explain *why* it matters.
+* **Link:** Show how the argument answers the prompt.
+* **Counter-Argument (Rebuttal):** Address opposing views and explain why they are limited or less significant.
+
+---
+
+### **2. Evidence & Content**
+
+**Avoid Generalizations:** Replace vague phrases like “in some countries” with specific examples (e.g., *the Nordic social welfare model*).
+
+**Multi-Dimensionality:** Use **SPELT**—Social, Political, Economic, Legal, Technological—to explore impacts across different domains.
+
+**The “So What?” Factor:** Always connect points to contemporary relevance; high-scoring essays show awareness of global shifts and tensions.
+
+---
+
+### **3. Style & Structure**
+
+**Thesis-Driven Introduction:** Define scope, acknowledge complexity, and state your position clearly.
+
+**Vocabulary Precision:** Use strong, nuanced verbs (e.g., *exacerbates, underscores, mitigates, validates*).
+
+**Final Synthesis:** Conclusions should provide judgment or insight—don’t simply repeat the introduction. Offer forward-looking statements or reconcile tensions discussed.
+
+---
+
+### **GP Essay Workflow**
+
+| Stage             | Focus                 | Goal                            |
+| ----------------- | --------------------- | ------------------------------- |
+| Question Analysis | Command words & scope | Avoid “out-of-point” errors     |
+| Brainstorming     | SPELT / stakeholders  | Ensure breadth of perspective   |
+| Drafting          | Evaluation & linking  | Maintain argumentative thread   |
+| Review            | Tone & clarity        | Ensure formal academic register |
+
+---
+
+This version is tighter, more precise, and emphasizes actionable strategies without extra fluff.
+
+Recursive rounds: 1
